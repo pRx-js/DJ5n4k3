@@ -1,3 +1,4 @@
 aiohttp
 youtube_dl
 psutil
+discord.py
